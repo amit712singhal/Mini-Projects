@@ -10,27 +10,6 @@ This is the complete list of all the Mini Projects I made for fun ;)_
 
 <!--
 |   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
-|   | []() | [Live Demo]() |
 -->
 
 ## License
