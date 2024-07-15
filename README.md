@@ -1,6 +1,6 @@
 # Web Development Mini Projects
 
-This is the main repository for all the Mini/Fun Projects im Web Development
+This is the complete list of all the Mini Projects I made for fun ;)_
 
 |  #  | Project                                                    | Live Demo                                                 |
 | :-: | ---------------------------------------------------------- | --------------------------------------------------------- |
