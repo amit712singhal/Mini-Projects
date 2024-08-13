@@ -7,6 +7,7 @@ This is the complete list of all the Mini Projects I made for fun ;)
 | 01  | [Dice Game](https://github.com/amit712singhal/Dice-Game)   | [Live Demo](https://amit712singhal.github.io/Dice-Game/)  |     | 01  | [Increment Counter](https://github.com/amit712singhal/Increment-Counter)                                 | [Live Demo](https://amit712singhal.github.io/Increment-Counter/) |
 | 02  | [Drum Kit](https://github.com/amit712singhal/Drum-Kit)     | [Live Demo](https://amit712singhal.github.io/Drum-Kit/)   |     | 02  | [Drink Water](https://github.com/amit712singhal/Drum-Kithttps://github.com/amit712singhal/Drink-Water)   | [Live Demo](https://amit712singhal.github.io/Drink-Water/)       |
 | 03  | [Simon Game](https://github.com/amit712singhal/Simon-Game) | [Live Demo](https://amit712singhal.github.io/Simon-Game/) |     | 03  | [Movie Mania](https://github.com/amit712singhal/Simon-Gamehttps://github.com/amit712singhal/Movie-Mania) | [Live Demo](https://amit712singhal.github.io/Movie-Mania/)       |
+| 04  | [Login/SignUp Form](https://github.com/amit712singhal/Login-SignUp-Website) | [Live Demo](https://amit712singhal.github.io/Login-SignUp-Website/) | 
 
 ## License
 
